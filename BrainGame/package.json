@@ -1,5 +1,5 @@
 {
-  "name": "Books",
+  "name": "BrainGame",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,9 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "flow": "^0.2.3",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.43.3"
+    "react-native": "0.43.3",
+    "reflux": "^6.4.1"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
